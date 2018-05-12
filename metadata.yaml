@@ -1,0 +1,27 @@
+_repo: The-Age-of-the-Reformation_18879
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Preserved
+    birthdate: 1880
+    deathdate: 1941
+    gutenberg_agent_id: '8317'
+    url: http://www.gutenberg.org/2009/agents/8317
+    wikipedia: http://en.wikipedia.org/wiki/Preserved_Smith
+description: '[1]. The Reformation in Europe. [2]. The social background of the Reformation'
+gutenberg_issued: '2006-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformation'
+- !lcc 'D'
+title: The Age of the Reformation
+url: http://www.gutenberg.org/ebooks/18879
